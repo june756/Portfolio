@@ -27,7 +27,10 @@ Overall, today was a productive introduction to using Git more seriously. Even t
 Tomorrow, we plan to:
 
 Practice more Git commands
+
 Create more folders for our Activity in Web System
+
 Learn more about connecting a local project to GitHub
+
 
 
